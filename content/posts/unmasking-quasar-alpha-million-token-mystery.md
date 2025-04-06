@@ -32,16 +32,16 @@ Here's a quick comparison table based on OpenRouter data:
 
 | Specification         | Value/Status             | Source      |
 |-----------------------|--------------------------|-------------|
-| Context Length        | 1,000,000 tokens         | OpenRouter⁵ |
-| Max Output Tokens     | 32,000 tokens            | OpenRouter⁵ |
-| Input Pricing         | $0 / M tokens            | OpenRouter⁴ |
-| Output Pricing        | $0 / M tokens            | OpenRouter⁴ |
-| Latency               | 0.49 seconds             | OpenRouter⁶ |
-| Throughput            | 138.7 tokens/second      | OpenRouter⁶ |
-| Quantization Support  | Unknown                  | OpenRouter⁵ |
-| Prompt Training Support| No                       | OpenRouter⁵ |
-| Reasoning Support     | Unknown                  | OpenRouter⁵ |
-| Stream Cancellation   | Yes                      | OpenRouter⁵ |
+| Context Length        | 1,000,000 tokens         | OpenRouter |
+| Max Output Tokens     | 32,000 tokens            | OpenRouter |
+| Input Pricing         | $0 / M tokens            | OpenRouter |
+| Output Pricing        | $0 / M tokens            | OpenRouter |
+| Latency               | 0.49 seconds             | OpenRouter |
+| Throughput            | 138.7 tokens/second      | OpenRouter |
+| Quantization Support  | Unknown                  | OpenRouter |
+| Prompt Training Support| No                       | OpenRouter |
+| Reasoning Support     | Unknown                  | OpenRouter |
+| Stream Cancellation   | Yes                      | OpenRouter |
 
 The combination of a massive context window and free pricing makes Quasar Alpha incredibly attractive for developers working on large-scale text or code analysis, document summarization, and context-rich AI agents.
 
@@ -58,11 +58,11 @@ Here's how it stacks up based on early reports:
 
 | Model Name        | Aider Polyglot Score | Instruction Following (User Reports) | Source |
 |-------------------|----------------------|--------------------------------------|--------|
-| Quasar Alpha      | 55%                  | Better than Claude 3.5 & Gemini 2.5  | User Reports² |
-| o3-mini-medium    | Competitive          | N/A                                  | Benchmark² |
-| DeepSeek V3       | Competitive          | N/A                                  | Benchmark² |
-| Claude 3.5 Sonnet | Competitive          | Potentially worse than Quasar Alpha  | User Reports² |
-| Gemini 2.5 Pro    | N/A                  | Potentially worse than Quasar Alpha  | User Reports² |
+| Quasar Alpha      | 55%                  | Better than Claude 3.5 & Gemini 2.5  | User Reports |
+| o3-mini-medium    | Competitive          | N/A                                  | Benchmark |
+| DeepSeek V3       | Competitive          | N/A                                  | Benchmark |
+| Claude 3.5 Sonnet | Competitive          | Potentially worse than Quasar Alpha  | User Reports |
+| Gemini 2.5 Pro    | N/A                  | Potentially worse than Quasar Alpha  | User Reports |
 
 These mixed results are typical for a model in a feedback phase, highlighting areas for refinement. The strong coding performance aligns with its stated strengths.
 
