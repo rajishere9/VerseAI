@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://verseaitech.netlify.app/'
 languageCode = 'en-us'
-title = 'VerseAI'
+title = 'VerseAI' # You can change this later if you like
 theme = "PaperMod"
