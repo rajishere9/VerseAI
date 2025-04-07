@@ -2,30 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/another-cool-post/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/ai/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blogging/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/coding/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/llm/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/long-context/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/mystery-model/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/openai/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-06T20:10:24+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/tags/openrouter/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-04-06T19:40:44+05:30</lastmod>
+    <loc>https://verseaitech.netlify.app/posts/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://verseaitech.netlify.app/tags/quasar-alpha/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/tags/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/</loc>
+    <lastmod>2025-04-06T20:59:00+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/posts/introducing-llama-4/</loc>
+    <lastmod>2025-04-06T20:24:32+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/tags/llama-4/</loc>
+    <lastmod>2025-04-06T20:24:32+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/tags/meta/</loc>
+    <lastmod>2025-04-06T20:24:32+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/tags/moe/</loc>
+    <lastmod>2025-04-06T20:24:32+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/tags/multimodal/</loc>
+    <lastmod>2025-04-06T20:24:32+05:30</lastmod>
+  </url><url>
+    <loc>https://verseaitech.netlify.app/categories/</loc>
   </url>
 </urlset>
