@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenAI on VerseAI</title>
-    <link>https://verseaitech.netlify.app/tags/openai/</link>
+    <link>http://localhost:1313/tags/openai/</link>
     <description>Recent content in OpenAI on VerseAI</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Apr 2025 20:59:00 +0530</lastBuildDate>
-    <atom:link href="https://verseaitech.netlify.app/tags/openai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/openai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unmasking Quasar Alpha: The Mysterious Million-Token AI Model on OpenRouter</title>
-      <link>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</link>
+      <link>http://localhost:1313/posts/unmasking-quasar-alpha-million-token-mystery/</link>
       <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
-      <guid>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</guid>
-      <description>&lt;p&gt;The AI landscape is never static, and recently, a new player emerged somewhat mysteriously on the OpenRouter platform: &lt;strong&gt;Quasar Alpha&lt;/strong&gt;. Unlike typical high-profile launches, this model arrived quietly, sparking curiosity and intense speculation, especially given its standout feature: a massive &lt;strong&gt;1 million token context window&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://verseaitech.netlify.app/images/Quasar%20Alpha.webp&#34; alt=&#34;Quasar Alpha Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What is this stealthy model, why the quiet launch, and could it be linked to a major AI player like OpenAI? Let&amp;rsquo;s dive into what we know about Quasar Alpha.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/unmasking-quasar-alpha-million-token-mystery/</guid>
+      <description>&lt;p&gt;The AI landscape is never static, and recently, a new player emerged somewhat mysteriously on the OpenRouter platform: &lt;strong&gt;Quasar Alpha&lt;/strong&gt;. Unlike typical high-profile launches, this model arrived quietly, sparking curiosity and intense speculation, especially given its standout feature: a massive &lt;strong&gt;1 million token context window&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Quasar%20Alpha.webp&#34; alt=&#34;Quasar Alpha Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;What is this stealthy model, why the quiet launch, and could it be linked to a major AI player like OpenAI? Let&amp;rsquo;s dive into what we know about Quasar Alpha.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
