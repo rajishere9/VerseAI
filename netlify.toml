@@ -11,7 +11,7 @@
   publish = "public"
 
   # Default build command.
-  command = "hugo --gc --minify"
+  command = "hugo --gc --minify -D -F" # Added -D -F flags
 
 # Build context specific settings
 [build.environment]
@@ -22,6 +22,7 @@
 # Production context: All deploys from the main repository branch
 # will inherit these settings. Branch specific settings override these.
 [context.production]
+  command = "hugo --gc --minify -D -F" # Added -D -F flags for production
   [context.production.environment]
     HUGO_ENV = "production"
 
