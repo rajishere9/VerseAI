@@ -21,6 +21,9 @@ Llama 4 introduces several key innovations:
 *   **Mixture of Experts (MoE) Architecture:** This design enhances computational efficiency by activating only a specialized subset of parameters ("experts") for each task. This balances powerful performance with reduced resource consumption.
     *   *Scout:* 109B total parameters (17B active), 16 experts.
     *   *Maverick:* 400B total parameters (17B active), 128 experts.
+
+![Llama 4 MoE Architecture](/images/MoELlama4.webp)
+
 *   **Multimodality:** Llama 4 models can process both text and image inputs, generating text-only outputs. This opens up new possibilities for applications like visual question answering and image-based reasoning.
 *   **Large Context Window:** The models support impressive context windows, enabling the processing of extensive data:
     *   *Scout:* Up to 10 million tokens.
