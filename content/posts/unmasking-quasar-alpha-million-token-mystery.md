@@ -8,6 +8,8 @@ tags = ["AI", "LLM", "Quasar Alpha", "OpenRouter", "OpenAI", "Long Context", "Co
 
 The AI landscape is never static, and recently, a new player emerged somewhat mysteriously on the OpenRouter platform: **Quasar Alpha**. Unlike typical high-profile launches, this model arrived quietly, sparking curiosity and intense speculation, especially given its standout feature: a massive **1 million token context window**.
 
+![Quasar Alpha Logo](/images/Quasar%20Alpha.webp)
+
 What is this stealthy model, why the quiet launch, and could it be linked to a major AI player like OpenAI? Let's dive into what we know about Quasar Alpha.
 
 ## What is Quasar Alpha? The Official Word
