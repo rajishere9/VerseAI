@@ -1,6 +1,6 @@
 +++
 title = "Nightwhisper: The Mysterious New AI That Might Dethrone Gemini 2.5 Pro?"
-date = 2025-07-04T07:36:00+05:30
+date = '2025-07-04T07:36:00+05:30'
 draft = false
 tags = ["ai", "llm", "nightwhisper", "gemini", "google", "coding", "benchmark", "mystery-model", "lmarena"]
 description = "A new AI model called 'Nightwhisper' is making waves, with early tests suggesting it could outperform Google's Gemini 2.5 Pro, especially in coding. Is this the next big thing?"
