@@ -1,7 +1,6 @@
 {{- /* layouts/partials/extend_footer.html */ -}}
 
 {{- /* Register Service Worker */ -}}
-{{- if not .Site.IsServer -}}
 <script>
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
@@ -15,6 +14,5 @@
     });
   }
 </script>
-{{- end -}}
 
 {{- /* Add other custom footer elements/scripts below this line if needed */ -}}
