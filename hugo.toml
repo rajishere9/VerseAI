@@ -16,3 +16,6 @@ theme = "PaperMod"
 
 [params]
   showRelatedPosts = true
+
+  [params.analytics.google]
+    SiteVerificationTag = "tTFePePTVUz-epm5EFBd4HWNO0qcC3chb-7mM7UMlWs"
