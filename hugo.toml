@@ -21,6 +21,10 @@ enableRobotsTXT = true
   # By explicitly defining taxonomies and omitting 'category',
   # Hugo will disable the default 'category' taxonomy.
 
+[sitemap]
+  # Exclude taxonomy list pages (like /tags/, /tags/ai/) from the sitemap
+  disableTaxonomyNodes = true
+
 [params]
   description = "Exploring the latest in AI and technology." # Site default meta description
   showRelatedPosts = true
