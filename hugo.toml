@@ -2,6 +2,7 @@ baseURL = 'https://verseaitech.netlify.app/'
 languageCode = 'en-us'
 title = 'VerseAI' # You can change this later if you like
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [related]
   threshold = 80
