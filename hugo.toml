@@ -16,6 +16,7 @@ enableRobotsTXT = true
     weight = 10
 
 [params]
+  description = "Exploring the latest in AI and technology." # Site default meta description
   showRelatedPosts = true
 
   [params.analytics.google]
