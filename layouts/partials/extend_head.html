@@ -1,0 +1,9 @@
+{{- /* layouts/partials/extend_head.html */ -}}
+{{- /* Link to the web app manifest */ -}}
+<link rel="manifest" href="/manifest.json">
+
+{{- /* Theme color for browser address bar */ -}}
+{{- $themeColor := .Site.Params.theme_color | default "#ffffff" -}}
+<meta name="theme-color" content="{{ $themeColor }}">
+
+{{- /* Add other custom head elements below this line if needed */ -}}
