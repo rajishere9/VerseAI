@@ -15,6 +15,12 @@ enableRobotsTXT = true
     name = "date"
     weight = 10
 
+# Define only the taxonomies you are using
+[taxonomies]
+  tag = "tags"
+  # By explicitly defining taxonomies and omitting 'category',
+  # Hugo will disable the default 'category' taxonomy.
+
 [params]
   description = "Exploring the latest in AI and technology." # Site default meta description
   showRelatedPosts = true

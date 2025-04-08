@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>MoE on VerseAI</title><link>https://verseaitech.netlify.app/tags/moe/</link><description>Recent content in MoE on VerseAI</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 20:24:32 +0530</lastBuildDate><atom:link href="https://verseaitech.netlify.app/tags/moe/index.xml" rel="self" type="application/rss+xml"/><item><title>Introducing Llama 4: Meta's Next-Gen Multimodal AI</title><link>https://verseaitech.netlify.app/posts/introducing-llama-4/</link><pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate><guid>https://verseaitech.netlify.app/posts/introducing-llama-4/</guid><description>An overview of Meta AI&amp;#39;s Llama 4, covering its release, architecture (MoE, multimodal), performance benchmarks, specifications, applications, and future prospects.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MoE on VerseAI</title>
+    <link>https://verseaitech.netlify.app/tags/moe/</link>
+    <description>Recent content in MoE on VerseAI</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 20:24:32 +0530</lastBuildDate>
+    <atom:link href="https://verseaitech.netlify.app/tags/moe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing Llama 4: Meta&#39;s Next-Gen Multimodal AI</title>
+      <link>https://verseaitech.netlify.app/posts/introducing-llama-4/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/posts/introducing-llama-4/</guid>
+      <description>An overview of Meta AI&amp;#39;s Llama 4, covering its release, architecture (MoE, multimodal), performance benchmarks, specifications, applications, and future prospects.</description>
+    </item>
+  </channel>
+</rss>

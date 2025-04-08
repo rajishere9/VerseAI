@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on VerseAI</title><link>https://verseaitech.netlify.app/tags/</link><description>Recent content in Tags on VerseAI</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 07:36:00 +0530</lastBuildDate><atom:link href="https://verseaitech.netlify.app/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AI</title><link>https://verseaitech.netlify.app/tags/ai/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/ai/</guid><description/></item><item><title>Benchmark</title><link>https://verseaitech.netlify.app/tags/benchmark/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verseaitech.netlify.app/tags/benchmark/</guid><description/></item><item><title>Coding</title><link>https://verseaitech.netlify.app/tags/coding/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/coding/</guid><description/></item><item><title>Gemini</title><link>https://verseaitech.netlify.app/tags/gemini/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verseaitech.netlify.app/tags/gemini/</guid><description/></item><item><title>Google</title><link>https://verseaitech.netlify.app/tags/google/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verseaitech.netlify.app/tags/google/</guid><description/></item><item><title>LLM</title><link>https://verseaitech.netlify.app/tags/llm/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/llm/</guid><description/></item><item><title>Lmarena</title><link>https://verseaitech.netlify.app/tags/lmarena/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verseaitech.netlify.app/tags/lmarena/</guid><description/></item><item><title>Mystery Model</title><link>https://verseaitech.netlify.app/tags/mystery-model/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/mystery-model/</guid><description/></item><item><title>Nightwhisper</title><link>https://verseaitech.netlify.app/tags/nightwhisper/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://verseaitech.netlify.app/tags/nightwhisper/</guid><description/></item><item><title>Long Context</title><link>https://verseaitech.netlify.app/tags/long-context/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/long-context/</guid><description/></item><item><title>OpenAI</title><link>https://verseaitech.netlify.app/tags/openai/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/openai/</guid><description/></item><item><title>OpenRouter</title><link>https://verseaitech.netlify.app/tags/openrouter/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/openrouter/</guid><description/></item><item><title>Quasar Alpha</title><link>https://verseaitech.netlify.app/tags/quasar-alpha/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/quasar-alpha/</guid><description/></item><item><title>Llama 4</title><link>https://verseaitech.netlify.app/tags/llama-4/</link><pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/llama-4/</guid><description/></item><item><title>Meta</title><link>https://verseaitech.netlify.app/tags/meta/</link><pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/meta/</guid><description/></item><item><title>MoE</title><link>https://verseaitech.netlify.app/tags/moe/</link><pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/moe/</guid><description/></item><item><title>Multimodal</title><link>https://verseaitech.netlify.app/tags/multimodal/</link><pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate><guid>https://verseaitech.netlify.app/tags/multimodal/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on VerseAI</title>
+    <link>https://verseaitech.netlify.app/tags/</link>
+    <description>Recent content in Tags on VerseAI</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 20:59:00 +0530</lastBuildDate>
+    <atom:link href="https://verseaitech.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://verseaitech.netlify.app/tags/ai/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>https://verseaitech.netlify.app/tags/coding/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://verseaitech.netlify.app/tags/llm/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Long Context</title>
+      <link>https://verseaitech.netlify.app/tags/long-context/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/long-context/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mystery Model</title>
+      <link>https://verseaitech.netlify.app/tags/mystery-model/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/mystery-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenAI</title>
+      <link>https://verseaitech.netlify.app/tags/openai/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/openai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OpenRouter</title>
+      <link>https://verseaitech.netlify.app/tags/openrouter/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/openrouter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quasar Alpha</title>
+      <link>https://verseaitech.netlify.app/tags/quasar-alpha/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/quasar-alpha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llama 4</title>
+      <link>https://verseaitech.netlify.app/tags/llama-4/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/llama-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meta</title>
+      <link>https://verseaitech.netlify.app/tags/meta/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/meta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MoE</title>
+      <link>https://verseaitech.netlify.app/tags/moe/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/moe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multimodal</title>
+      <link>https://verseaitech.netlify.app/tags/multimodal/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/multimodal/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

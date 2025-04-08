@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>OpenRouter on VerseAI</title><link>https://verseaitech.netlify.app/tags/openrouter/</link><description>Recent content in OpenRouter on VerseAI</description><generator>Hugo -- 0.145.0</generator><language>en-us</language><lastBuildDate>Sun, 06 Apr 2025 20:59:00 +0530</lastBuildDate><atom:link href="https://verseaitech.netlify.app/tags/openrouter/index.xml" rel="self" type="application/rss+xml"/><item><title>Unmasking Quasar Alpha: The Mysterious Million-Token AI Model on OpenRouter</title><link>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</link><pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate><guid>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</guid><description>Dive into Quasar Alpha, the stealthy 1M token context AI model on OpenRouter. Explore its specs, performance, potential OpenAI links, and community buzz.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OpenRouter on VerseAI</title>
+    <link>https://verseaitech.netlify.app/tags/openrouter/</link>
+    <description>Recent content in OpenRouter on VerseAI</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Apr 2025 20:59:00 +0530</lastBuildDate>
+    <atom:link href="https://verseaitech.netlify.app/tags/openrouter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unmasking Quasar Alpha: The Mysterious Million-Token AI Model on OpenRouter</title>
+      <link>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/posts/unmasking-quasar-alpha-million-token-mystery/</guid>
+      <description>Dive into Quasar Alpha, the stealthy 1M token context AI model on OpenRouter. Explore its specs, performance, potential OpenAI links, and community buzz.</description>
+    </item>
+  </channel>
+</rss>
