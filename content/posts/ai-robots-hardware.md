@@ -1,9 +1,10 @@
----
-title: "Forget Sci-Fi: Humanoid Robots & Brain-Inspired Chips Are Here! (What Powers the AI Revolution?)"
-date: 2025-09-04T12:57:00+05:30
-draft: false
-tags: ["ai", "hardware", "robotics", "humanoid robots", "embodied ai", "neuromorphic", "quantum ai", "edge ai"]
----
++++
+title = "Forget Sci-Fi: Humanoid Robots & Brain-Inspired Chips Are Here! (What Powers the AI Revolution?)"
+date = '2025-09-03T12:57:00+05:30'
+draft = false
+description = "An overview of AI hardware innovations (GPUs, accelerators, neuromorphic, quantum, photonic) and the rise of Embodied AI, focusing on humanoid robots."
+tags = ["ai", "hardware", "robotics", "humanoid robots", "embodied ai", "neuromorphic", "quantum ai", "edge ai"]
++++
 
 ## AI Isn't Just Software Anymore – It's Getting Physical!
 

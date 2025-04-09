@@ -6,13 +6,202 @@
     <description>Recent content in Tags on VerseAI</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 20:59:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 12:57:00 +0530</lastBuildDate>
     <atom:link href="https://verseaitech.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://verseaitech.netlify.app/tags/ai/</link>
       <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
       <guid>https://verseaitech.netlify.app/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Ai</title>
+      <link>https://verseaitech.netlify.app/tags/edge-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/edge-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Embodied Ai</title>
+      <link>https://verseaitech.netlify.app/tags/embodied-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/embodied-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://verseaitech.netlify.app/tags/hardware/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Humanoid Robots</title>
+      <link>https://verseaitech.netlify.app/tags/humanoid-robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/humanoid-robots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Neuromorphic</title>
+      <link>https://verseaitech.netlify.app/tags/neuromorphic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/neuromorphic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Ai</title>
+      <link>https://verseaitech.netlify.app/tags/quantum-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/quantum-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://verseaitech.netlify.app/tags/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bias</title>
+      <link>https://verseaitech.netlify.app/tags/bias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/bias/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diagnostics</title>
+      <link>https://verseaitech.netlify.app/tags/diagnostics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/diagnostics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Drug Discovery</title>
+      <link>https://verseaitech.netlify.app/tags/drug-discovery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/drug-discovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethics</title>
+      <link>https://verseaitech.netlify.app/tags/ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fda</title>
+      <link>https://verseaitech.netlify.app/tags/fda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/fda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>https://verseaitech.netlify.app/tags/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/healthcare/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medical Ai</title>
+      <link>https://verseaitech.netlify.app/tags/medical-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/medical-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Explainable Ai</title>
+      <link>https://verseaitech.netlify.app/tags/explainable-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/explainable-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governance</title>
+      <link>https://verseaitech.netlify.app/tags/governance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://verseaitech.netlify.app/tags/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulation</title>
+      <link>https://verseaitech.netlify.app/tags/regulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/regulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xai</title>
+      <link>https://verseaitech.netlify.app/tags/xai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/xai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Agentic Ai</title>
+      <link>https://verseaitech.netlify.app/tags/agentic-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/agentic-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://verseaitech.netlify.app/tags/automation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future of Work</title>
+      <link>https://verseaitech.netlify.app/tags/future-of-work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/future-of-work/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gartner</title>
+      <link>https://verseaitech.netlify.app/tags/gartner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/gartner/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Tech</title>
+      <link>https://verseaitech.netlify.app/tags/future-tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/future-tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative Ai</title>
+      <link>https://verseaitech.netlify.app/tags/generative-ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/generative-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multimodal</title>
+      <link>https://verseaitech.netlify.app/tags/multimodal/</link>
+      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/multimodal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Benchmark</title>
+      <link>https://verseaitech.netlify.app/tags/benchmark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/benchmark/</guid>
       <description></description>
     </item>
     <item>
@@ -23,6 +212,20 @@
       <description></description>
     </item>
     <item>
+      <title>Gemini</title>
+      <link>https://verseaitech.netlify.app/tags/gemini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/gemini/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Google</title>
+      <link>https://verseaitech.netlify.app/tags/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/google/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>LLM</title>
       <link>https://verseaitech.netlify.app/tags/llm/</link>
       <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
@@ -30,10 +233,10 @@
       <description></description>
     </item>
     <item>
-      <title>Long Context</title>
-      <link>https://verseaitech.netlify.app/tags/long-context/</link>
-      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
-      <guid>https://verseaitech.netlify.app/tags/long-context/</guid>
+      <title>Lmarena</title>
+      <link>https://verseaitech.netlify.app/tags/lmarena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/lmarena/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +244,20 @@
       <link>https://verseaitech.netlify.app/tags/mystery-model/</link>
       <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
       <guid>https://verseaitech.netlify.app/tags/mystery-model/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nightwhisper</title>
+      <link>https://verseaitech.netlify.app/tags/nightwhisper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/nightwhisper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Long Context</title>
+      <link>https://verseaitech.netlify.app/tags/long-context/</link>
+      <pubDate>Sun, 06 Apr 2025 20:59:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/tags/long-context/</guid>
       <description></description>
     </item>
     <item>
@@ -83,13 +300,6 @@
       <link>https://verseaitech.netlify.app/tags/moe/</link>
       <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
       <guid>https://verseaitech.netlify.app/tags/moe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Multimodal</title>
-      <link>https://verseaitech.netlify.app/tags/multimodal/</link>
-      <pubDate>Sun, 06 Apr 2025 20:24:32 +0530</pubDate>
-      <guid>https://verseaitech.netlify.app/tags/multimodal/</guid>
       <description></description>
     </item>
   </channel>

@@ -16,7 +16,7 @@
 # Build context specific settings
 [build.environment]
   # Specify the Hugo version Netlify should use
-  HUGO_VERSION = "0.125.7" # Updated for PaperMod compatibility
+  HUGO_VERSION = "0.145.0" # Match local version
   HUGO_ENABLEGITINFO = "true"
 
 # Production context: All deploys from the main repository branch
@@ -31,11 +31,11 @@
 [context.deploy-preview]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   [context.deploy-preview.environment]
-    HUGO_VERSION = "0.125.7" # Updated for PaperMod compatibility
+    HUGO_VERSION = "0.145.0" # Match local version
 
 # Branch Deploy context: All deploys that are not from a pull/merge request
 # or from the production branch will inherit these settings.
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
   [context.branch-deploy.environment]
-    HUGO_VERSION = "0.125.7" # Updated for PaperMod compatibility
+    HUGO_VERSION = "0.145.0" # Match local version

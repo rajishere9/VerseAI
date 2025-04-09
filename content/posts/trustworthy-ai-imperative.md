@@ -1,9 +1,10 @@
----
-title: "AI's Dark Side? Why Trust, Ethics & Explainability Are Non-Negotiable in 2025!"
-date: 2025-09-04T12:55:00+05:30
-draft: false
-tags: ["ai", "ethics", "governance", "explainable ai", "xai", "bias", "privacy", "regulation"]
----
++++
+title = "AI's Dark Side? Why Trust, Ethics & Explainability Are Non-Negotiable in 2025!"
+date = '2025-09-03T12:55:00+05:30'
+draft = false
+description = "Discussing the critical need for trustworthy AI, covering global governance trends, ethical imperatives like bias and privacy, and the role of Explainable AI (XAI)."
+tags = ["ai", "ethics", "governance", "explainable ai", "xai", "bias", "privacy", "regulation"]
++++
 
 ## AI is Powerful, But Can We Trust It?
 

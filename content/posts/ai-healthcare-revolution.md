@@ -1,9 +1,10 @@
----
-title: "AI Doctor Will See You Now? How AI is Radically Reshaping Healthcare (For Better or Worse?)"
-date: 2025-09-04T12:56:00+05:30
-draft: false
-tags: ["ai", "healthcare", "medical ai", "diagnostics", "drug discovery", "fda", "ethics", "bias"]
----
++++
+title = "AI Doctor Will See You Now? How AI is Radically Reshaping Healthcare (For Better or Worse?)"
+date = '2025-09-03T12:56:00+05:30'
+draft = false
+description = "Examining AI's transformative impact on healthcare, including diagnostics, drug discovery, personalized medicine, and operational efficiency, alongside adoption challenges."
+tags = ["ai", "healthcare", "medical ai", "diagnostics", "drug discovery", "fda", "ethics", "bias"]
++++
 
 ## Your Next Doctor Might Be an Algorithm... Sort Of.
 

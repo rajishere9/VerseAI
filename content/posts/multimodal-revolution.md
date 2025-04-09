@@ -1,9 +1,10 @@
----
-title: "AI's Next Leap: Beyond Text & Images - The Multimodal Revolution is HERE!"
-date: 2025-09-04T12:53:00+05:30
-draft: false
-tags: ["ai", "multimodal", "generative ai", "future tech"]
----
++++
+title = "AI's Next Leap: Beyond Text & Images - The Multimodal Revolution is HERE!"
+date = '2025-09-03T12:53:00+05:30'
+draft = false
+description = "Exploring the rise of Multimodal AI, its capabilities beyond text and images, market growth, applications, and challenges."
+tags = ["ai", "multimodal", "generative ai", "future tech"]
++++
 
 ## AI Isn't Just About Words Anymore!
 

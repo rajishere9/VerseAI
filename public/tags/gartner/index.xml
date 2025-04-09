@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gartner on VerseAI</title>
+    <link>https://verseaitech.netlify.app/tags/gartner/</link>
+    <description>Recent content in Gartner on VerseAI</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 12:54:00 +0530</lastBuildDate>
+    <atom:link href="https://verseaitech.netlify.app/tags/gartner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your AI Assistant is Getting a HUGE Upgrade: Meet Agentic AI (Is Your Job Safe?)</title>
+      <link>https://verseaitech.netlify.app/posts/agentic-ai-takeover/</link>
+      <pubDate>Wed, 03 Sep 2025 12:54:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/posts/agentic-ai-takeover/</guid>
+      <description>An overview of Agentic AI, its capabilities for autonomous task execution, market predictions, impact on work, and the challenges of accountability.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drug Discovery on VerseAI</title>
+    <link>https://verseaitech.netlify.app/tags/drug-discovery/</link>
+    <description>Recent content in Drug Discovery on VerseAI</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Sep 2025 12:56:00 +0530</lastBuildDate>
+    <atom:link href="https://verseaitech.netlify.app/tags/drug-discovery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Doctor Will See You Now? How AI is Radically Reshaping Healthcare (For Better or Worse?)</title>
+      <link>https://verseaitech.netlify.app/posts/ai-healthcare-revolution/</link>
+      <pubDate>Wed, 03 Sep 2025 12:56:00 +0530</pubDate>
+      <guid>https://verseaitech.netlify.app/posts/ai-healthcare-revolution/</guid>
+      <description>Examining AI&amp;#39;s transformative impact on healthcare, including diagnostics, drug discovery, personalized medicine, and operational efficiency, alongside adoption challenges.</description>
+    </item>
+  </channel>
+</rss>

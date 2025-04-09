@@ -1,9 +1,10 @@
----
-title: "Your AI Assistant is Getting a HUGE Upgrade: Meet Agentic AI (Is Your Job Safe?)"
-date: 2025-09-04T12:54:00+05:30
-draft: false
-tags: ["ai", "agentic ai", "automation", "future of work", "gartner"]
----
++++
+title = "Your AI Assistant is Getting a HUGE Upgrade: Meet Agentic AI (Is Your Job Safe?)"
+date = '2025-09-03T12:54:00+05:30'
+draft = false
+description = "An overview of Agentic AI, its capabilities for autonomous task execution, market predictions, impact on work, and the challenges of accountability."
+tags = ["ai", "agentic ai", "automation", "future of work", "gartner"]
++++
 
 ## Forget Simple Chatbots: AI Is About to Start *Doing* Things For You!
 
